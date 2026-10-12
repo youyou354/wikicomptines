@@ -1,0 +1,4 @@
+*.o
+wcp_srv
+wcp_clt
+log_clients.txt
